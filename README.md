@@ -8,7 +8,7 @@
   ### Theater Outcomes Based on Launched Date
   <img width="576" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/103911529/166293305-666b35a8-7db8-4a3d-9466-22d640478e16.png">
   
- #### After reviewing the Theater Outcomes Based on Launched Date we came to the following conclusions: specific data can be viewed (https://github.com/TorreyRawlings/kickstarter-analysis/blob/main/Kickstarter_Challenge12.zip)
+ #### After reviewing the Theater Outcomes Based on Launched Date we came to the following conclusions:
   - December is not an ideal month to begin a kickstarter campaign. 
   - Summer months have the highest success rate of kickstarter campaigns.
 
